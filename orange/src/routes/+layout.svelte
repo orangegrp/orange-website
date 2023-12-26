@@ -9,11 +9,11 @@ import icon from '$lib/images/orange-logo-w-icon.svg';
 <svelte:head>
 	<link rel="icon" type="image/svg" href={icon} />
 	<meta property="og:image" content="{logo}" />
-	<meta name="og:site_name" content="orange🟠"/>
-	<meta name="og:title" content="orange🟠"/>
+	<meta name="og:site_name" content="332"/>
+	<meta name="og:title" content="Project orange🟠"/>
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="https://orange.order332.com" />
-	<meta property="og:description" content=""/>
+	<meta property="og:description" content="orange🟠 is 332's new ecosystem for web applications and Discord bots. The ecosystem consists of many services, apps and modules that all work together to provide a good experience both for the user and the developers maintaining the project."/>
 </svelte:head>
 
 <div class="app">
