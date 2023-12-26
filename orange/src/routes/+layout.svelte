@@ -8,7 +8,7 @@ import icon from '$lib/images/orange-logo-w-icon.svg';
 
 <svelte:head>
 	<link rel="icon" type="image/svg" href={icon} />
-	<meta property="og:image" content="{logo}" />
+	<meta property="og:image" content="{icon}" />
 	<meta name="og:site_name" content="332"/>
 	<meta name="og:title" content="Project orange🟠"/>
 	<meta property="og:type" content="website" />

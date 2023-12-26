@@ -6,7 +6,7 @@
   
 <svelte:head>
 	<title>orange🟠</title>
-	<meta name="description" content="A new tech stack. " />
+	<meta name="description" content="orange🟠 is 332's new ecosystem for web applications and Discord bots. The ecosystem consists of many services, apps and modules that all work together to provide a good experience both for the user and the developers maintaining the project." />
 </svelte:head>
 
 <div>
