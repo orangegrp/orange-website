@@ -4,11 +4,13 @@ import './styles.css';
 import "../app.css";
 import logo from '$lib/images/orange-logo-w.svg';
 import icon from '$lib/images/orange-logo-w-icon.svg';
+import icon_png from '$lib/images/favicon.png';
 </script>
 
 <svelte:head>
+	<link rel="icon" type="image/png" href={icon_png} />
 	<link rel="icon" type="image/svg" href={icon} />
-	<meta property="og:image" content="{icon}" />
+	<meta property="og:image" content="{icon_png}" />
 	<meta name="og:site_name" content="332"/>
 	<meta name="og:title" content="Project orange🟠"/>
 	<meta property="og:type" content="website" />
