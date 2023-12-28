@@ -13,21 +13,21 @@
 	<section class="2xl:pl-32 2xl:pr-32 md:pl-8 md:pr-8 sm:pl-4 sm:pr-4 mt-20">
 		<div class="flex justify-center">
 			<div class="inline-block p-2 pl-3 pr-3 border border-orange-950 rounded-lg card mb-12">
-				<p class="text-xs text-center">
+				<p class="k-light text-xs text-center">
 					Hey there! Thanks for checking out orange🟠! If you're interested in helping out, please ping Alexei or Topias in #general or #tech.
 				</p>	
 			</div>	
 		</div>
 
 		<div>
-			<h1 class="text-4xl md:text-5xl font-bold leading-normal md:leading-normal text-center xl:pl-32 xl:pr-32 2xl:pl-64 2xl:pr-64">
+			<h1 class="k-light text-4xl md:text-5xl font-bold leading-normal md:leading-normal text-center xl:pl-32 xl:pr-32 2xl:pl-64 2xl:pr-64">
 				Welcome to project
-				<span class="bg-gradient-to-r from-orange-400 to-orange-500 inline-block text-transparent bg-clip-text">
+				<span class="k-bold bg-gradient-to-r from-orange-400 to-orange-500 inline-block text-transparent bg-clip-text">
 					orange🟠
 				</span>.
 			</h1>
-			<p class="text-xl mt-4 font-bold leading-normal md:leading-normal text-center xl:pl-32 xl:pr-32 2xl:pl-64 2xl:pr-64">
-				<span class="bg-gradient-to-r from-orange-400 to-orange-500 inline-block text-transparent bg-clip-text">
+			<p class="k-light text-xl mt-4 font-bold leading-normal md:leading-normal text-center xl:pl-32 xl:pr-32 2xl:pl-64 2xl:pr-64">
+				<span class="k-bold bg-gradient-to-r from-orange-400 to-orange-500 inline-block text-transparent bg-clip-text">
 					orange🟠
 				</span> 
 				is 332's new ecosystem for web applications and Discord bots.

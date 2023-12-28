@@ -1,7 +1,7 @@
 <!-- src/routes/terms-of-service.svelte -->
 
 <script>
-    export let lastUpdated = "26/12/2023";
+    export let lastUpdated = "28/12/2023";
 </script>
 
 <div>
@@ -11,7 +11,7 @@
         <p>orange🟠 by 332 ("us", "we", or "our") operates Internet services (the "Services") as follows:</p>
         <ul class="list-disc ml-8">
             <li>orange🟠 "Discord" Bot (the "Bot")</li>
-            <li>orange🟠 Code Runner Service (the "CRS", "orange🟠 CRS")</li>
+            <li>orange🟠 Code Runner Server (the "CRS", "orange🟠 CRS")</li>
             <li>orange🟠 Dash (the "Dash", "dashboard", "control panel", "admin panel")</li>
         </ul>
 
@@ -21,11 +21,11 @@
             not agree to these terms, please do not use the Services.
         </p>
 
-        <h2>1. Use of the Service</h2>
+        <h2>1. Use of the Services</h2>
         <p>
-            You must only use the Service in accordance with applicable laws and
+            You must only use the Services in accordance with applicable laws and
             regulations and must not engage in any activity that may disrupt,
-            damage, or interfere with the functionality of the Service.
+            damage, or interfere with the functionality of the Services.
         </p>
 
         <h2>2. User Conduct</h2>
@@ -92,7 +92,7 @@
         <h2>6. Changes to Terms</h2>
         <p>
             We may revise these terms at any time without notice. By
-            using the Service, you agree to be bound by the current version of
+            using the Services, you agree to be bound by the current version of
             these terms.
         </p>
     </main>

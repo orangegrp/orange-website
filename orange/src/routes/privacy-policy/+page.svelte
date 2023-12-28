@@ -75,7 +75,7 @@ export let lastUpdated = "26/12/2023";
         </ul>
 
         <div class="inline-block p-2 pl-3 pr-3 border border-orange-950 rounded-lg card mb-6">
-            <p class="text-xs">
+            <p class="text-xs k-light">
                 Your data is only ever transmitted to these providers if you give express consent or imply it through your use of a Service
                 that strictly requires an upstream provider. orange🟠 will never transmit data to third parties without your consent and will
                 develop the Services in a privacy respecting way at all times.

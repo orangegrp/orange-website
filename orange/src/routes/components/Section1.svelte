@@ -4,11 +4,11 @@
 <section class="2xl:pl-32 2xl:pr-32 md:pl-8 md:pr-8 sm:pl-4 sm:pr-4 mt-20 mb-4">
     <div class="text-center">
         <h1
-            class="text-4xl md:text-5xl font-bold leading-normal md:leading-normal text-center xl:pl-32 xl:pr-32 2xl:pl-64 2xl:pr-64"
+            class="k-light text-4xl md:text-5xl font-bold leading-normal md:leading-normal text-center xl:pl-32 xl:pr-32 2xl:pl-64 2xl:pr-64"
         >
             The
             <span
-                class="bg-gradient-to-r from-orange-400 to-orange-500 inline-block text-transparent bg-clip-text"
+                class="k-bold bg-gradient-to-r from-orange-400 to-orange-500 inline-block text-transparent bg-clip-text"
             >
                 orange🟠
             </span>
