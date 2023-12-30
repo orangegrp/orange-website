@@ -14,6 +14,8 @@
         </h1>
         <h2 class="font-bold text-2xl mt-4 k-light">What is orange🟠 exactly?</h2>
         <p class="mt-2 mb-2">orange🟠 is the name given to the new ecosystem of web apps, services and the new 332 Discord bot that is being developed.</p>
+        <h2 class="font-bold text-2xl mt-4 k-light">Why is it called "orange🟠"?</h2>
+        <p class="mt-2 mb-2">orange</p>
         <h2 class="font-bold text-2xl mt-4 k-light">Who is behind this?</h2>
         <p class="mt-2 mb-2">The orange🟠 project was started by Alexei. The lead developer is Topias.</p>
         <h2 class="font-bold text-2xl mt-4 k-light">How do I help out?</h2>
