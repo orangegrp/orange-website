@@ -1,7 +1,7 @@
 <!-- src/routes/privacy-policy.svelte -->
 
 <script>
-export let lastUpdated = "26/12/2023";
+export let lastUpdated = "30/12/2023";
 </script>
 
 <div>
@@ -70,7 +70,8 @@ export let lastUpdated = "26/12/2023";
             <li>OpenAI Ireland Ltd</li>
             <li>OpenAI, L.L.C</li>
             <li>opencve.io</li>
-            <li>Oracle Corporation</li>            
+            <li>Oracle Corporation</li>   
+            <li>shodan.io</li>         
             <li>Vercel Inc.</li>      
         </ul>
 

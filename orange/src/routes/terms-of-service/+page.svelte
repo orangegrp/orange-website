@@ -1,7 +1,7 @@
 <!-- src/routes/terms-of-service.svelte -->
 
 <script>
-    export let lastUpdated = "28/12/2023";
+    export let lastUpdated = "30/12/2023";
 </script>
 
 <div>
@@ -61,7 +61,8 @@
             <li>OpenAI Ireland Ltd</li>
             <li>OpenAI, L.L.C</li>
             <li>opencve.io</li>
-            <li>Oracle Corporation</li>            
+            <li>Oracle Corporation</li>         
+            <li>shodan.io</li>           
             <li>Vercel Inc.</li>      
         </ul>
 
