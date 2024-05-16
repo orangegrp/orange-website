@@ -1,14 +1,14 @@
 <!-- src/routes/privacy-policy.svelte -->
 
 <script>
-export let lastUpdated = "30/12/2023";
+export let lastUpdated = "16/05/2024";
 </script>
 
 <div>
     <main>
         <h1>Privacy Policy</h1>
         <p>Last updated: {lastUpdated}</p> 
-        <p>orange🟠 by 332 ("us", "we", or "our") operates Internet services (the "Services") as follows:</p>
+        <p>orangegrp ("us", "we", or "our") operates Internet services (the "Services") as follows:</p>
         <ul class="list-disc ml-8">
             <li>orange🟠 "Discord" Bot (the "Bot")</li>
             <li>orange🟠 Code Runner Service (the "CRS", "orange🟠 CRS")</li>

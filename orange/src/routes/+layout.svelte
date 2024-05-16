@@ -50,8 +50,7 @@ import icon_png from '$lib/images/favicon.png';
 			<hr class="my-6 border-zinc-800 sm:mx-auto lg:my-8" />
 			<span class="block text-sm text-zinc-500 sm:text-center">© 2024 
 				<span class="k-bold">
-					orange🟠
-				</span> by 332</span>
+					orangegrp
 		</div>
 	</footer>
 
